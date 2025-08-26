@@ -1,6 +1,10 @@
-html{
-    scroll-margin-top: 80px;
-}
+ html{
+    scroll-margin-top: 82px;
+ }
+
+ section{
+     scroll-margin-top: 82px;
+ }
 
 body{
     background-color: rgba(1, 198, 1, 0.087);
